@@ -1,0 +1,20 @@
+5     4     2
+
+3
+
+4   50 100   10
+
+3
+3   1    200     2     (1,20),(84,17)
+
+3        2     56       5     (12,7),(34,13),(44,2),(52,5),(56,10)
+
+5   3    134      0
+
+…. and so on for the 500 lines
+
+SIGKILL Times //Sorted ascendingly by kill time
+
+9  34                 ⇒ Kill process with PID=34 at time 9
+
+50 8                  ⇒ Kill process with PID=8 at time 50
